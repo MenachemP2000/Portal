@@ -14,7 +14,7 @@ const App = () => {
         <div className="hero-content">
           <img src="/IMG-20210525-WA0008.jpg" alt="Menachem" className="profile-pic" />
           <h1>
-            Hi, I'm <span className="highlight">Menaches</span>
+            Hi, I'm <span className="highlight">Menachem</span>
           </h1>
           <p>
             Constantly learning and developing, striving to turn new ideas into real-world solutions.<br />
