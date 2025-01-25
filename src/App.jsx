@@ -83,7 +83,7 @@ const App = () => {
           <a href="mailto:mendypar1@gmail.com" target="_blank" rel="noopener noreferrer">
             <FaEnvelope size={30} />
           </a>
-          <a href="tel:+1234567890" target="_blank" rel="noopener noreferrer">
+          <a href="tel:+9720543365050" target="_blank" rel="noopener noreferrer">
             <FaPhoneAlt size={30} />
           </a>
           <a href="/CVMenachemParente.pdf" download className="btn-contact">
