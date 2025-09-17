@@ -34,7 +34,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #1d3557, #457b9d);
+  background: linear-gradient(135deg, #1d3557, #002F22);
   color: white;
   text-align: center;
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
@@ -47,7 +47,7 @@ body {
 }
 
 .highlight {
-  color: #f4a261;
+  color: lightBlue;
 }
 
 .hero-content p {
@@ -154,13 +154,13 @@ body {
 /* Footer */
 .footer {
   padding: 20px;
-  background: #1d3557;
+  background: #002F22;
   color: white;
 }
 
 .social-links a {
   margin: 0 10px;
-  color: #f4a261;
+  color: lightBlue;
   transition: transform 0.3s ease;
 }
 

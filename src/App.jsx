@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 import React from "react";
@@ -35,14 +32,15 @@ const App = () => {
         <h2>About Me</h2>
         <div className="about-content">
           <p>
-            I’m a Computer Science graduate with a passion for AI and software
-            engineering. My projects like <strong>CareerBoost</strong> and{" "}
-            <strong>FooTube</strong> are designed to solve real-world problems
-            and showcase the power of technology.
+            Computer Science graduate currently working as a <strong>Software Engineer</strong>.
+            Skilled in <strong>MERN full-stack</strong> development and <strong>AI-powered automation</strong>,
+            with hands-on experience delivering production-ready solutions.
           </p>
+          <br/>
           <p>
-            I believe in pushing boundaries, learning every day, and turning
-            ideas into impactful solutions.
+            Built <strong>CareerBoost</strong> (AI-driven career planning platform) and
+            <strong> FooTube</strong> (open-source video streaming app), demonstrating the ability to turn ideas
+            into impactful, real-world applications. Passionate about continuous learning and solving practical problems.
           </p>
         </div>
       </section>
@@ -56,7 +54,7 @@ const App = () => {
             <h3>CareerBoost</h3>
             <p>
               A data-driven platform predicting salaries and recommending career
-              changes based on skills.(In progress)
+              changes based on skills.
             </p>
           </a>
           <a href="https://footube.menachem.website" target="_blank" rel="noopener noreferrer" className="project-card">
