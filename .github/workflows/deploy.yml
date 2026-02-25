@@ -25,7 +25,7 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -o StrictHostKeyChecking=no opc@129.159.143.53 << 'EOF'
+        ssh -o StrictHostKeyChecking=no opc@130.110.238.171 << 'EOF'
           cd /home/opc/projects/Portal  # Navigate to the new OCI directory
           git pull origin main  # Pull the latest changes
           sudo systemctl stop Portal.service  # Stop the service
