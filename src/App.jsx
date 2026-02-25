@@ -70,7 +70,7 @@ const App = () => {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© 2025 Menachem. Let’s Connect!</p>
+        <p>© 2026 Menachem. Let’s Connect!</p>
         <div className="social-links">
           <a href="https://github.com/MenachemP2000" target="_blank" rel="noopener noreferrer">
             <FaGithub size={30} />

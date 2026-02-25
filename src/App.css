@@ -8,6 +8,8 @@ body {
 
 .portal-container {
   text-align: center;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 /* Hero Section */
