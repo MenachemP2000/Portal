@@ -49,7 +49,7 @@ const App = () => {
       <section className="projects" id="projects">
         <h2>My Projects</h2>
         <div className="project-cards">
-          <a href="https://careerboost.menachem.website" target="_blank" rel="noopener noreferrer" className="project-card">
+          <a href="https://github.com/MenachemP2000/CareerBoost" target="_blank" rel="noopener noreferrer" className="project-card">
 
             <h3>CareerBoost</h3>
             <p>
@@ -57,7 +57,7 @@ const App = () => {
               changes based on skills.
             </p>
           </a>
-          <a href="https://footube.menachem.website" target="_blank" rel="noopener noreferrer" className="project-card">
+          <a href="https://github.com/MenachemP2000/FooTube" target="_blank" rel="noopener noreferrer" className="project-card">
 
             <h3>FooTube</h3>
             <p>
